@@ -11,7 +11,7 @@ Built with Python and Tkinter by **Walrus Dev**.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main.png" alt="File Organizer main window with the rules list, options and action buttons" width="560">
+  <img src="main.png" alt="File Organizer main window with the rules list, options and action buttons" width="560">
 </p>
 
 <p align="center">
