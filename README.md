@@ -1,7 +1,7 @@
 # File Organizer
 
 <p align="center">
-  <img src="walrus_logo.png" alt="Walrus Dev logo" width="120">
+  <img src="walrus_dev_smooth.png" alt="Walrus Dev logo" width="120">
 </p>
 
 A Windows desktop app that keeps a folder tidy. It sorts files into sub-folders by file type, can watch a folder and sort new files as they arrive, and lets you undo anything it does.
