@@ -15,7 +15,7 @@ Built with Python and Tkinter by **Walrus Dev**.
 </p>
 
 <p align="center">
-  <img src="screenshots/add-rule.png" alt="Add rule dialog with folder name, file types and quick fill" width="260">
+  <img src="add-rule.png" alt="Add rule dialog with folder name, file types and quick fill" width="260">
 </p>
 
 ## Features
